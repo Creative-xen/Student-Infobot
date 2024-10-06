@@ -4,5 +4,5 @@ This bot allows users to quickly retrieve student details, such as name and sect
 
 CHECK DEMO :
 
-https://github.com/user-attachments/assets/d723061d-e784-42ad-a5e4-e6b34588bd5b
+![DEMO](https://github.com/user-attachments/assets/ae8c2dd8-6b13-4eea-b449-7c6caeef92f7)
 
