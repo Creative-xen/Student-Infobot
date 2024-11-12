@@ -3,7 +3,7 @@
 </h1>
 
 
-Contact: coming soon[
+Contact: coming soon
 
 ---
 
@@ -19,7 +19,7 @@ This branch is purely based on `Pandas` and `DB file` .
 ## Features:
 
 -Know anyone using roll no.
--Get Details of section
+-Get Details of section.
 `Adding more features soon`
 
 ## Deploying Guide - will be available soon
