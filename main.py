@@ -47,14 +47,14 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
                                                                                                                                       #formalaties :(
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     help_text = (
-        "Welcome to the Student Info Bot!\n\n"
+        "Hardik Swagat to the Student Info Bot!\n\n"
         "Here are the commands you can use:\n\n"
         "/start - Get a welcome message.\n\n"
-       
-        "To get details about a student, send a roll number.\nFor example: '2205xxxx'.\n\n"
+        
+        "To get details about a student, send a roll number.\nFor example: '220517xx'.\n\n"
         "To get a list of students in a section, send a section number in the format '01' for CSE-01.\n"
         "I will return the name, roll number, and hostel for each student in that section, sorted by roll number.\n\n\n"
-        "Developed by :  Ankush"
+        "Developed by :  Ankush"
 
     )
 
