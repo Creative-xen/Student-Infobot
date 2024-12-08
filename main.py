@@ -124,7 +124,7 @@ async def users(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
                                                                                                                      # Replace 'TOKEN' put yours here
-    application = Application.builder().token("6987805624:AAH0F4A_sI_o_EMEA5Ie5SJ6z17oTaVLRE4").build()
+    application = Application.builder().token("<your bot token>").build()
 
   
     application.add_handler(CommandHandler("start", start))
