@@ -2,8 +2,8 @@ import pandas as pd
 from telegram import Update, InputFile
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-# Read the Excel sheet - telling to pandas not u
-excel_file = 'data.xls'  
+# Read the Excel sheet - telling to pandas to read it 
+excel_file = 'your_data.xlsx'  
 df = pd.read_excel(excel_file)
 
 # roll are string 
